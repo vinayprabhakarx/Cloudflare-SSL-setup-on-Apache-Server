@@ -1,5 +1,4 @@
 # Cloudflare-SSL-setup-on-Apache-Server
-Securing your Apache server with an SSL certificate is crucial for ensuring the confidentiality and integrity of data transmitted between the server and clients. Cloudflare offers an easy and efficient way to generate SSL certificates for your domain. Here's a step-by-step guide on installing a Cloudflare SSL certificate on an Apache server:
 
 ## **Generating SSL Certificate with Cloudflare**
 
